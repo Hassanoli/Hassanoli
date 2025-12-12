@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/hassan-mohamed-ali-6216b7243/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
   </a>
-  <a href="mailto:ahmadhalhassan73@gmail.com" target="_blank">
+  <a href="mailto:hassanmohamedali0113@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
   </a>
   <a href="https://wa.me/201550122173" target="_blank">
