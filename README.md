@@ -56,14 +56,25 @@
 <h2>Contact Me</h2>
 
 <div align="left">
- <a href="https://www.linkedin.com/in/alhassan-mohamed-mahmoud-6216b7243/" target="_blank">
-</a>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
+  <a href="https://www.linkedin.com/in/alhassan-mohamed-mahmoud-6216b7243/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="40"
+         height="40"
+         alt="LinkedIn"/>
   </a>
+
   <a href="mailto:hassanmohamedali0113@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="40"
+         height="40"
+         alt="Gmail"/>
   </a>
+
   <a href="https://wa.me/201550122173" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
+         width="40"
+         height="40"
+         alt="WhatsApp"/>
   </a>
 </div>
+
