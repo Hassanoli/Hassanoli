@@ -57,7 +57,6 @@
 
 <div align="left">
  <a href="https://www.linkedin.com/in/alhassan-mohamed-mahmoud-6216b7243/" target="_blank">
-    LinkedIn Profile
 </a>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
   </a>
